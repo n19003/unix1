@@ -1,4 +1,3 @@
-cd dir3
-rm file01 file02 file03 file04 file05
+#rm file01 file02 file03 file04 file05
 
-#rm file{01..05}
+rm dir1/dir2/dir3/file{01..05}
