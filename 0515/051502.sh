@@ -1,1 +1,1 @@
-find /home -name '*.vim' -print
+sudo find /home -type d -name '.vim' -print
