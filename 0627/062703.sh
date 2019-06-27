@@ -5,6 +5,3 @@ if [ -d "$file" ]; then
 else
     echo "${file}:ディレクトリではありません"
 fi
-
-
-
